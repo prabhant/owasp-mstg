@@ -32,6 +32,7 @@ Steps in fuzzing
 * Generating malicious inputs
 * Test case delivery
 * Crash monitoring
+
 [OWASP Fuzzing guide](https://www.owasp.org/index.php/Fuzzing)
 Note: Fuzzing only detects software bugs. Classifying this issue as a security flaw requires further analysis by the researcher.
 
